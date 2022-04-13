@@ -30,12 +30,15 @@ Install the dependencies:
 Nếu bạn tìm thấy lỗi, hãy liên hệ với tôi và tôi sẽ khắc phục nó
 
 ## Thanks to
-      - [DuyVuongDev]https://github.com/SimperLord)
+      - [DuyVuongDev](https://github.com/SimperLord)
+      - [MinhHuyDev](https://github.com/MinhHuyDev)
 
 ## Contributors
 <table>
   <tr>
 <td align="center"><a href="https://github.com/SimperLord" target="_blank"><img src="https://avatars.githubusercontent.com/u/86643647?v=4" width="100px;" alt=""/></a><br />
 <sub><b>DuyVuongDev</b></sub><br /></td>
+<td align="center"><a href="https://github.com/MinhHuyDev" target="_blank"><img src="https://avatars.githubusercontent.com/u/96736064?v=4" width="100px;" alt=""/></a><br />
+<sub><b>MinhHuyDev</b></sub><br /></td>
   </tr>
 </table>
