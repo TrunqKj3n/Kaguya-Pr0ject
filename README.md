@@ -1,1 +1,41 @@
-# Kaguya-Pr0ject
+<p align="center">
+<img src="https://i.imgur.com/fooM1Cv.jpg"/>
+</p>
+<h1 align="center">Kaguya Bot</h1>
+
+Simple ChatBot Messenger.<br/>
+1. Đi tới file config.json
+2. Điền những gì cần điền
+
+## Get Started
+Yêu cầu NodeJS phiên bản 16.x , [Ấn vào để tải xuống.](https://nodejs.org/en/download/current/)
+
+### Cloning
+```sh
+> git clone https://github.com/TTKTrungKien/Kaguya-Pr0ject
+> cd kaguya-bot
+```
+Install the dependencies:
+```sh
+> npm install
+> npm update
+```
+
+### Run
+```sh
+> npm start
+```
+
+### Error Found
+Nếu bạn tìm thấy lỗi, hãy liên hệ với tôi và tôi sẽ khắc phục nó
+
+## Thanks to
+      - [DuyVuongDev]https://github.com/SimperLord)
+
+## Contributors
+<table>
+  <tr>
+<td align="center"><a href="https://github.com/SimperLord" target="_blank"><img src="https://avatars.githubusercontent.com/u/86643647?v=4" width="100px;" alt=""/></a><br />
+<sub><b>DuyVuongDev</b></sub><br /></td>
+  </tr>
+</table>
