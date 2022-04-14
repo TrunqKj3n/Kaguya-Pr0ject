@@ -6,6 +6,7 @@
 Simple ChatBot Messenger.<br/>
 1. Đi tới file config.json
 2. Điền những gì cần điền
+3. Lấy fbstate và dán vào cookies.json
 
 ## Get Started
 Yêu cầu NodeJS phiên bản 16.x , [Ấn vào để tải xuống.](https://nodejs.org/en/download/current/)
