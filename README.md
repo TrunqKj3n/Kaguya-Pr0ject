@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/OkpfkH7.png"/>
+<img src="https://i.imgur.com/fo7R9UE.gif"/>
 </p>
 <h1 align="center">Kaguya Bot</h1>
 
